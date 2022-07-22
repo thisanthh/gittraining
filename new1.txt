@@ -6,8 +6,15 @@ hi i am learning git
 you are doing great job
 
 juuuuuuhdh
+huhu
 =======
 Hello people ho you doing
+<<<<<<< HEAD
 
 doing great job Thank you!
 >>>>>>> 90584c8caf6b88b7abdd8714797215d17d45390e
+=======
+perfect peace
+
+thankyou so much
+>>>>>>> 6800face96ca8b5831742a3ce262e1942f89ab21
