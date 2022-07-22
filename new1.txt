@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 hi i am learning git
 
 
+
 you are doing great job
+
+juuuuuuhdh
+=======
+Hello people ho you doing
+
+doing great job Thank you!
+>>>>>>> 90584c8caf6b88b7abdd8714797215d17d45390e
