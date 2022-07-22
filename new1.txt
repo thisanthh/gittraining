@@ -6,7 +6,7 @@ hi i am learning git
 you are doing great job
 
 juuuuuuhdh
-huhu
+huhv fjndmnfvmvnu
 =======
 Hello people ho you doing
 <<<<<<< HEAD
@@ -18,4 +18,6 @@ perfect peace
 
 thankyou so much
 it will be heplfull
+
+happy
 >>>>>>> 6800face96ca8b5831742a3ce262e1942f89ab21
